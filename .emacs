@@ -6,7 +6,7 @@
  '(custom-enabled-themes '(cyberpunk))
  '(custom-safe-themes
    '("e9d47d6d41e42a8313c81995a60b2af6588e9f01a1cf19ca42669a7ffd5c2fde" default))
- '(package-selected-packages '(guru-mode cyberpunk-theme)))
+ '(package-selected-packages '(on-screen guru-mode cyberpunk-theme)))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
@@ -14,3 +14,5 @@
  ;; If there is more than one, they won't work right.
  )
 (guru-global-mode)
+(require 'on-screen)
+(on-screen-global-mode +1)
