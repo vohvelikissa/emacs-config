@@ -7,7 +7,7 @@
  '(custom-safe-themes
    '("e9d47d6d41e42a8313c81995a60b2af6588e9f01a1cf19ca42669a7ffd5c2fde" default))
  '(package-selected-packages
-   '(company chess lsp-python-ms lsp-javacomp lsp-java on-screen guru-mode cyberpunk-theme)))
+   '(zone-nyan 2048-game company chess lsp-python-ms lsp-javacomp lsp-java on-screen guru-mode cyberpunk-theme)))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
